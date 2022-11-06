@@ -1,0 +1,24 @@
+# ninja log v5
+0	672	1665012126692338439	CMakeFiles/untitled.dir/main.cpp.o	68118b7a9bee2378
+14	1796	1665012285055972021	CMakeFiles/untitled.dir/card.cpp.o	db5a391d1a2f6619
+14	2261	1665012285520886283	CMakeFiles/untitled.dir/deck.cpp.o	4b23f2453aff5c25
+1	533	1665013499745507982	CMakeFiles/untitled.dir/main.cpp.o	b525d96182804fec
+3	658	1665013737667410559	CMakeFiles/untitled.dir/deck.cpp.o	d3d960dcc57c5fd0
+3	658	1665013737667236100	CMakeFiles/untitled.dir/card.cpp.o	723d3f848fcb0ec8
+2	664	1665013761503659056	CMakeFiles/untitled.dir/main.cpp.o	b525d96182804fec
+2	660	1665013886275837659	CMakeFiles/untitled.dir/deck.cpp.o	d3d960dcc57c5fd0
+660	731	1665013886350645085	untitled	a2f98bd3ee4e6f81
+3	636	1665014340696508568	CMakeFiles/untitled.dir/deck.cpp.o	d3d960dcc57c5fd0
+2	639	1665014340701365362	CMakeFiles/untitled.dir/main.cpp.o	b525d96182804fec
+3	665	1665014340726306327	CMakeFiles/untitled.dir/card.cpp.o	723d3f848fcb0ec8
+665	732	1665014340796690758	untitled	a2f98bd3ee4e6f81
+2	642	1665014365377423839	CMakeFiles/untitled.dir/card.cpp.o	723d3f848fcb0ec8
+642	710	1665014365448457765	untitled	a2f98bd3ee4e6f81
+3	647	1665015286923247095	CMakeFiles/untitled.dir/deck.cpp.o	d3d960dcc57c5fd0
+2	648	1665015286923247512	CMakeFiles/untitled.dir/main.cpp.o	b525d96182804fec
+3	663	1665015286941661863	CMakeFiles/untitled.dir/card.cpp.o	723d3f848fcb0ec8
+2	670	1665015330579809813	CMakeFiles/untitled.dir/main.cpp.o	b525d96182804fec
+2	571	1665015368315301844	CMakeFiles/untitled.dir/deck.cpp.o	d3d960dcc57c5fd0
+2	601	1665015390126820012	CMakeFiles/untitled.dir/main.cpp.o	b525d96182804fec
+2	651	1665015416045705870	CMakeFiles/untitled.dir/card.cpp.o	723d3f848fcb0ec8
+2	627	1665015812012156090	CMakeFiles/untitled.dir/main.cpp.o	b525d96182804fec
